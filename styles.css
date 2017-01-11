@@ -1,0 +1,25 @@
+ body{ 
+padding-left: 11em;
+  font-family:Georgia;
+   color:black ; background-color:  #F08080 } 
+ ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em } 
+h1{font-family:Helvetica} 
+ li{
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid mediumseagreen}
+  a{
+  text-decoration: none }
+ a:link {
+  color: purple }
+ a:visited {
+  color: grey }-
+  
